@@ -1,4 +1,4 @@
-# Python-Projects
+# Data Visualization Project
 
 In this project I would be using python libraries like Numpy, Pandas, and Matplotlib to sort data and visualize it by plotting different types of graphs.
 
