@@ -1,0 +1,25 @@
+#,Name,Type,Total,HP,Attack,Defense,Sp.Atk,Sp.Def,Speed
+374,Beldum,Ice,300,40,55,80,35,60,30
+375,Metang,Ice,420,60,75,100,55,80,50
+376,Metagross,Ice,600,80,135,130,95,90,70
+376,MetagrossMega Metagross,Ice,700,80,145,150,105,110,110
+377,Regirock,Ice,580,80,100,200,50,100,50
+378,Regice,Ice,580,80,50,100,100,200,50
+379,Registeel,Ice,580,80,75,150,75,150,50
+380,Latias,Ice,600,80,80,90,110,130,110
+380,LatiasMega Latias,Ice,700,80,100,120,140,150,110
+381,Latios,Ice,600,80,90,80,130,110,110
+381,LatiosMega Latios,Ice,700,80,130,100,160,120,110
+382,Kyogre,Ice,670,100,100,90,150,140,90
+382,KyogrePrimal Kyogre,Ice,770,100,150,90,180,160,90
+383,Groudon,Ice,670,100,150,140,100,90,90
+383,GroudonPrimal Groudon,Ice,770,100,180,160,150,90,90
+384,Rayquaza,Ice,680,105,150,90,150,90,95
+384,RayquazaMega Rayquaza,Ice,780,105,180,100,180,100,115
+385,Jirachi,Ice,600,100,100,100,100,100,100
+386,DeoxysNormal Forme,Ice,600,50,150,50,150,50,150
+386,DeoxysAttack Forme,Ice,600,50,180,20,180,20,150
+386,DeoxysDefense Forme,Ice,600,50,70,160,70,160,90
+386,DeoxysSpeed Forme,Ice,600,50,95,90,95,90,180
+387,Turtwig,Ice,318,55,68,64,45,55,31
+388,Grotle,Ice,405,75,89,85,55,65,36

@@ -1,0 +1,71 @@
+#,Name,Type,Total,HP,Attack,Defense,Sp.Atk,Sp.Def,Speed
+284,Masquerain,Grass,414,70,60,62,80,82,60
+285,Shroomish,Grass,295,60,40,60,40,60,35
+286,Breloom,Grass,460,60,130,80,60,60,70
+287,Slakoth,Grass,280,60,60,60,35,35,30
+288,Vigoroth,Grass,440,80,80,80,55,55,90
+289,Slaking,Grass,670,150,160,100,95,65,100
+290,Nincada,Grass,266,31,45,90,30,30,40
+291,Ninjask,Grass,456,61,90,45,50,50,160
+292,Shedinja,Grass,236,1,90,45,30,30,40
+293,Whismur,Grass,240,64,51,23,51,23,28
+294,Loudred,Grass,360,84,71,43,71,43,48
+295,Exploud,Grass,490,104,91,63,91,73,68
+296,Makuhita,Grass,237,72,60,30,20,30,25
+297,Hariyama,Grass,474,144,120,60,40,60,50
+298,Azurill,Grass,190,50,20,40,20,40,20
+299,Nosepass,Grass,375,30,45,135,45,90,30
+300,Skitty,Grass,260,50,45,45,35,35,50
+301,Delcatty,Grass,380,70,65,65,55,55,70
+302,Sableye,Grass,380,50,75,75,65,65,50
+302,SableyeMega Sableye,Grass,480,50,85,125,85,115,20
+303,Mawile,Grass,380,50,85,85,55,55,50
+303,MawileMega Mawile,Grass,480,50,105,125,55,95,50
+304,Aron,Grass,330,50,70,100,40,40,30
+305,Lairon,Grass,430,60,90,140,50,50,40
+306,Aggron,Grass,530,70,110,180,60,60,50
+306,AggronMega Aggron,Grass,630,70,140,230,60,80,50
+307,Meditite,Grass,280,30,40,55,40,55,60
+308,Medicham,Grass,410,60,60,75,60,75,80
+308,MedichamMega Medicham,Grass,510,60,100,85,80,85,100
+309,Electrike,Grass,295,40,45,40,65,40,65
+310,Manectric,Grass,475,70,75,60,105,60,105
+310,ManectricMega Manectric,Grass,575,70,75,80,135,80,135
+311,Plusle,Grass,405,60,50,40,85,75,95
+312,Minun,Grass,405,60,40,50,75,85,95
+313,Volbeat,Grass,400,65,73,55,47,75,85
+314,Illumise,Grass,400,65,47,55,73,75,85
+315,Roselia,Grass,400,50,60,45,100,80,65
+316,Gulpin,Grass,302,70,43,53,43,53,40
+317,Swalot,Grass,467,100,73,83,73,83,55
+318,Carvanha,Grass,305,45,90,20,65,20,65
+319,Sharpedo,Grass,460,70,120,40,95,40,95
+319,SharpedoMega Sharpedo,Grass,560,70,140,70,110,65,105
+320,Wailmer,Grass,400,130,70,35,70,35,60
+321,Wailord,Grass,500,170,90,45,90,45,60
+322,Numel,Grass,305,60,60,40,65,45,35
+323,Camerupt,Grass,460,70,100,70,105,75,40
+323,CameruptMega Camerupt,Grass,560,70,120,100,145,105,20
+324,Torkoal,Grass,470,70,85,140,85,70,20
+325,Spoink,Grass,330,60,25,35,70,80,60
+326,Grumpig,Grass,470,80,45,65,90,110,80
+327,Spinda,Grass,360,60,60,60,60,60,60
+328,Trapinch,Grass,290,45,100,45,45,45,10
+329,Vibrava,Grass,340,50,70,50,50,50,70
+330,Flygon,Grass,520,80,100,80,80,80,100
+331,Cacnea,Grass,335,50,85,40,85,40,35
+332,Cacturne,Grass,475,70,115,60,115,60,55
+333,Swablu,Grass,310,45,40,60,40,75,50
+334,Altaria,Grass,490,75,70,90,70,105,80
+334,AltariaMega Altaria,Grass,590,75,110,110,110,105,80
+335,Zangoose,Grass,458,73,115,60,60,60,90
+336,Seviper,Grass,458,73,100,60,100,60,65
+337,Lunatone,Grass,440,70,55,65,95,85,70
+338,Solrock,Grass,440,70,95,85,55,65,70
+339,Barboach,Grass,288,50,48,43,46,41,60
+340,Whiscash,Grass,468,110,78,73,76,71,60
+341,Corphish,Grass,308,43,80,65,50,35,35
+342,Crawdaunt,Grass,468,63,120,85,90,55,55
+343,Baltoy,Grass,300,40,40,55,40,70,55
+344,Claydol,Grass,500,60,70,105,70,120,75
+345,Lileep,Grass,355,66,41,77,61,87,23

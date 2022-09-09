@@ -1,0 +1,53 @@
+#,Name,Type,Total,HP,Attack,Defense,Sp.Atk,Sp.Def,Speed
+205,Forretress,Fire,465,75,90,140,60,60,40
+206,Dunsparce,Fire,415,100,70,70,65,65,45
+207,Gligar,Fire,430,65,75,105,35,65,85
+208,Steelix,Fire,510,75,85,200,55,65,30
+208,SteelixMega Steelix,Fire,610,75,125,230,55,95,30
+209,Snubbull,Fire,300,60,80,50,40,40,30
+210,Granbull,Fire,450,90,120,75,60,60,45
+211,Qwilfish,Fire,430,65,95,75,55,55,85
+212,Scizor,Fire,500,70,130,100,55,80,65
+212,ScizorMega Scizor,Fire,600,70,150,140,65,100,75
+213,Shuckle,Fire,505,20,10,230,10,230,5
+214,Heracross,Fire,500,80,125,75,40,95,85
+214,HeracrossMega Heracross,Fire,600,80,185,115,40,105,75
+215,Sneasel,Fire,430,55,95,55,35,75,115
+216,Teddiursa,Fire,330,60,80,50,50,50,40
+217,Ursaring,Fire,500,90,130,75,75,75,55
+218,Slugma,Fire,250,40,40,40,70,40,20
+219,Magcargo,Fire,410,50,50,120,80,80,30
+220,Swinub,Fire,250,50,50,40,30,30,50
+221,Piloswine,Fire,450,100,100,80,60,60,50
+222,Corsola,Fire,380,55,55,85,65,85,35
+223,Remoraid,Fire,300,35,65,35,65,35,65
+224,Octillery,Fire,480,75,105,75,105,75,45
+225,Delibird,Fire,330,45,55,45,65,45,75
+226,Mantine,Fire,465,65,40,70,80,140,70
+227,Skarmory,Fire,465,65,80,140,40,70,70
+228,Houndour,Fire,330,45,60,30,80,50,65
+229,Houndoom,Fire,500,75,90,50,110,80,95
+229,HoundoomMega Houndoom,Fire,600,75,90,90,140,90,115
+230,Kingdra,Fire,540,75,95,95,95,95,85
+231,Phanpy,Fire,330,90,60,60,40,40,40
+232,Donphan,Fire,500,90,120,120,60,60,50
+233,Porygon2,Fire,515,85,80,90,105,95,60
+234,Stantler,Fire,465,73,95,62,85,65,85
+235,Smeargle,Fire,250,55,20,35,20,45,75
+236,Tyrogue,Fire,210,35,35,35,35,35,35
+237,Hitmontop,Fire,455,50,95,95,35,110,70
+238,Smoochum,Fire,305,45,30,15,85,65,65
+239,Elekid,Fire,360,45,63,37,65,55,95
+240,Magby,Fire,365,45,75,37,70,55,83
+241,Miltank,Fire,490,95,80,105,40,70,100
+242,Blissey,Fire,540,255,10,10,75,135,55
+243,Raikou,Fire,580,90,85,75,115,100,115
+244,Entei,Fire,580,115,115,85,90,75,100
+245,Suicune,Fire,580,100,75,115,90,115,85
+246,Larvitar,Fire,300,50,64,50,45,50,41
+247,Pupitar,Fire,410,70,84,70,65,70,51
+248,Tyranitar,Fire,600,100,134,110,95,100,61
+248,TyranitarMega Tyranitar,Fire,700,100,164,150,95,120,71
+249,Lugia,Fire,680,106,90,130,90,154,110
+250,Ho-oh,Fire,680,106,130,90,110,154,90
+251,Celebi,Fire,600,100,100,100,100,100,100

@@ -1,0 +1,33 @@
+#,Name,Type,Total,HP,Attack,Defense,Sp.Atk,Sp.Def,Speed
+255,Torchic,Ghost,310,45,60,40,70,50,45
+256,Combusken,Ghost,405,60,85,60,85,60,55
+257,Blaziken,Ghost,530,80,120,70,110,70,80
+257,BlazikenMega Blaziken,Ghost,630,80,160,80,130,80,100
+258,Mudkip,Ghost,310,50,70,50,50,50,40
+259,Marshtomp,Ghost,405,70,85,70,60,70,50
+260,Swampert,Ghost,535,100,110,90,85,90,60
+260,SwampertMega Swampert,Ghost,635,100,150,110,95,110,70
+261,Poochyena,Ghost,220,35,55,35,30,30,35
+262,Mightyena,Ghost,420,70,90,70,60,60,70
+263,Zigzagoon,Ghost,240,38,30,41,30,41,60
+264,Linoone,Ghost,420,78,70,61,50,61,100
+265,Wurmple,Ghost,195,45,45,35,20,30,20
+266,Silcoon,Ghost,205,50,35,55,25,25,15
+267,Beautifly,Ghost,395,60,70,50,100,50,65
+268,Cascoon,Ghost,205,50,35,55,25,25,15
+269,Dustox,Ghost,385,60,50,70,50,90,65
+270,Lotad,Ghost,220,40,30,30,40,50,30
+271,Lombre,Ghost,340,60,50,50,60,70,50
+272,Ludicolo,Ghost,480,80,70,70,90,100,70
+273,Seedot,Ghost,220,40,40,50,30,30,30
+274,Nuzleaf,Ghost,340,70,70,40,60,40,60
+275,Shiftry,Ghost,480,90,100,60,90,60,80
+276,Taillow,Ghost,270,40,55,30,30,30,85
+277,Swellow,Ghost,430,60,85,60,50,50,125
+278,Wingull,Ghost,270,40,30,30,55,30,85
+279,Pelipper,Ghost,430,60,50,100,85,70,65
+280,Ralts,Ghost,198,28,25,25,45,35,40
+281,Kirlia,Ghost,278,38,35,35,65,55,50
+282,Gardevoir,Ghost,518,68,65,65,125,115,80
+282,GardevoirMega Gardevoir,Ghost,618,68,85,65,165,135,100
+283,Surskit,Ghost,269,40,30,32,50,52,65

@@ -1,0 +1,33 @@
+Name,Type,Total,HP,Attack,Defense,Sp.Atk,Sp.Def,Speed
+Haunter,Dragon,405,45,50,45,115,55,95
+Gengar,Dragon,500,60,65,60,130,75,110
+GengarMega Gengar,Dragon,600,60,65,80,170,95,130
+Onix,Dragon,385,35,45,160,30,45,70
+Drowzee,Dragon,328,60,48,45,43,90,42
+Hypno,Dragon,483,85,73,70,73,115,67
+Krabby,Dragon,325,30,105,90,25,25,50
+Kingler,Dragon,475,55,130,115,50,50,75
+Voltorb,Dragon,330,40,30,50,55,55,100
+Electrode,Dragon,480,60,50,70,80,80,140
+Exeggcute,Dragon,325,60,40,80,60,45,40
+Exeggutor,Dragon,520,95,95,85,125,65,55
+Cubone,Dragon,320,50,50,95,40,50,35
+Marowak,Dragon,425,60,80,110,50,80,45
+Hitmonlee,Dragon,455,50,120,53,35,110,87
+Hitmonchan,Dragon,455,50,105,79,35,110,76
+Lickitung,Dragon,385,90,55,75,60,75,30
+Koffing,Dragon,340,40,65,95,60,45,35
+Weezing,Dragon,490,65,90,120,85,70,60
+Rhyhorn,Dragon,345,80,85,95,30,30,25
+Rhydon,Dragon,485,105,130,120,45,45,40
+Chansey,Dragon,450,250,5,5,35,105,50
+Tangela,Dragon,435,65,55,115,100,40,60
+Kangaskhan,Dragon,490,105,95,80,40,80,90
+KangaskhanMega Kangaskhan,Dragon,590,105,125,100,60,100,100
+Horsea,Dragon,295,30,40,70,70,25,60
+Seadra,Dragon,440,55,65,95,95,45,85
+Goldeen,Dragon,320,45,67,60,35,50,63
+Seaking,Dragon,450,80,92,65,65,80,68
+Staryu,Dragon,340,30,45,55,70,55,85
+Starmie,Dragon,520,60,75,85,100,85,115
+Mr. Mime,Dragon,460,40,45,65,100,120,90

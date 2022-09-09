@@ -1,0 +1,29 @@
+#,Name,Type,Total,HP,Attack,Defense,Sp.Atk,Sp.Def,Speed
+479,RotomHeat Rotom,Poison,520,50,65,107,105,107,86
+479,RotomWash Rotom,Poison,520,50,65,107,105,107,86
+479,RotomFrost Rotom,Poison,520,50,65,107,105,107,86
+479,RotomFan Rotom,Poison,520,50,65,107,105,107,86
+479,RotomMow Rotom,Poison,520,50,65,107,105,107,86
+480,Uxie,Poison,580,75,75,130,75,130,95
+481,Mesprit,Poison,580,80,105,105,105,105,80
+482,Azelf,Poison,580,75,125,70,125,70,115
+483,Dialga,Poison,680,100,120,120,150,100,90
+484,Palkia,Poison,680,90,120,100,150,120,100
+485,Heatran,Poison,600,91,90,106,130,106,77
+486,Regigigas,Poison,670,110,160,110,80,110,100
+487,GiratinaAltered Forme,Poison,680,150,100,120,100,120,90
+487,GiratinaOrigin Forme,Poison,680,150,120,100,120,100,90
+488,Cresselia,Poison,600,120,70,120,75,130,85
+489,Phione,Poison,480,80,80,80,80,80,80
+490,Manaphy,Poison,600,100,100,100,100,100,100
+491,Darkrai,Poison,600,70,90,90,135,90,125
+492,ShayminLand Forme,Poison,600,100,100,100,100,100,100
+492,ShayminSky Forme,Poison,600,100,103,75,120,75,127
+493,Arceus,Poison,720,120,120,120,120,120,120
+494,Victini,Poison,600,100,100,100,100,100,100
+495,Snivy,Poison,308,45,45,55,45,55,63
+496,Servine,Poison,413,60,60,75,60,75,83
+497,Serperior,Poison,528,75,75,95,75,95,113
+498,Tepig,Poison,308,65,63,45,45,45,45
+499,Pignite,Poison,418,90,93,55,70,55,55
+500,Emboar,Poison,528,110,123,65,100,65,65

@@ -1,0 +1,99 @@
+#,Name,Type,Total,HP,Attack,Defense,Sp.Atk,Sp.Def,Speed
+389,Torterra,Normal,525,95,109,105,75,85,56
+390,Chimchar,Normal,309,44,58,44,58,44,61
+391,Monferno,Normal,405,64,78,52,78,52,81
+392,Infernape,Normal,534,76,104,71,104,71,108
+393,Piplup,Normal,314,53,51,53,61,56,40
+394,Prinplup,Normal,405,64,66,68,81,76,50
+395,Empoleon,Normal,530,84,86,88,111,101,60
+396,Starly,Normal,245,40,55,30,30,30,60
+397,Staravia,Normal,340,55,75,50,40,40,80
+398,Staraptor,Normal,485,85,120,70,50,60,100
+399,Bidoof,Normal,250,59,45,40,35,40,31
+400,Bibarel,Normal,410,79,85,60,55,60,71
+401,Kricketot,Normal,194,37,25,41,25,41,25
+402,Kricketune,Normal,384,77,85,51,55,51,65
+403,Shinx,Normal,263,45,65,34,40,34,45
+404,Luxio,Normal,363,60,85,49,60,49,60
+405,Luxray,Normal,523,80,120,79,95,79,70
+406,Budew,Normal,280,40,30,35,50,70,55
+407,Roserade,Normal,515,60,70,65,125,105,90
+408,Cranidos,Normal,350,67,125,40,30,30,58
+409,Rampardos,Normal,495,97,165,60,65,50,58
+410,Shieldon,Normal,350,30,42,118,42,88,30
+411,Bastiodon,Normal,495,60,52,168,47,138,30
+412,Burmy,Normal,224,40,29,45,29,45,36
+413,WormadamPlant Cloak,Normal,424,60,59,85,79,105,36
+413,WormadamSandy Cloak,Normal,424,60,79,105,59,85,36
+413,WormadamTrash Cloak,Normal,424,60,69,95,69,95,36
+414,Mothim,Normal,424,70,94,50,94,50,66
+415,Combee,Normal,244,30,30,42,30,42,70
+416,Vespiquen,Normal,474,70,80,102,80,102,40
+417,Pachirisu,Normal,405,60,45,70,45,90,95
+418,Buizel,Normal,330,55,65,35,60,30,85
+419,Floatzel,Normal,495,85,105,55,85,50,115
+420,Cherubi,Normal,275,45,35,45,62,53,35
+421,Cherrim,Normal,450,70,60,70,87,78,85
+422,Shellos,Normal,325,76,48,48,57,62,34
+423,Gastrodon,Normal,475,111,83,68,92,82,39
+424,Ambipom,Normal,482,75,100,66,60,66,115
+425,Drifloon,Normal,348,90,50,34,60,44,70
+426,Drifblim,Normal,498,150,80,44,90,54,80
+427,Buneary,Normal,350,55,66,44,44,56,85
+428,Lopunny,Normal,480,65,76,84,54,96,105
+428,LopunnyMega Lopunny,Normal,580,65,136,94,54,96,135
+429,Mismagius,Normal,495,60,60,60,105,105,105
+430,Honchkrow,Normal,505,100,125,52,105,52,71
+431,Glameow,Normal,310,49,55,42,42,37,85
+432,Purugly,Normal,452,71,82,64,64,59,112
+433,Chingling,Normal,285,45,30,50,65,50,45
+434,Stunky,Normal,329,63,63,47,41,41,74
+435,Skuntank,Normal,479,103,93,67,71,61,84
+436,Bronzor,Normal,300,57,24,86,24,86,23
+437,Bronzong,Normal,500,67,89,116,79,116,33
+438,Bonsly,Normal,290,50,80,95,10,45,10
+439,Mime Jr.,Normal,310,20,25,45,70,90,60
+440,Happiny,Normal,220,100,5,5,15,65,30
+441,Chatot,Normal,411,76,65,45,92,42,91
+442,Spiritomb,Normal,485,50,92,108,92,108,35
+443,Gible,Normal,300,58,70,45,40,45,42
+444,Gabite,Normal,410,68,90,65,50,55,82
+445,Garchomp,Normal,600,108,130,95,80,85,102
+445,GarchompMega Garchomp,Normal,700,108,170,115,120,95,92
+446,Munchlax,Normal,390,135,85,40,40,85,5
+447,Riolu,Normal,285,40,70,40,35,40,60
+448,Lucario,Normal,525,70,110,70,115,70,90
+448,LucarioMega Lucario,Normal,625,70,145,88,140,70,112
+449,Hippopotas,Normal,330,68,72,78,38,42,32
+450,Hippowdon,Normal,525,108,112,118,68,72,47
+451,Skorupi,Normal,330,40,50,90,30,55,65
+452,Drapion,Normal,500,70,90,110,60,75,95
+453,Croagunk,Normal,300,48,61,40,61,40,50
+454,Toxicroak,Normal,490,83,106,65,86,65,85
+455,Carnivine,Normal,454,74,100,72,90,72,46
+456,Finneon,Normal,330,49,49,56,49,61,66
+457,Lumineon,Normal,460,69,69,76,69,86,91
+458,Mantyke,Normal,345,45,20,50,60,120,50
+459,Snover,Normal,334,60,62,50,62,60,40
+460,Abomasnow,Normal,494,90,92,75,92,85,60
+460,AbomasnowMega Abomasnow,Normal,594,90,132,105,132,105,30
+461,Weavile,Normal,510,70,120,65,45,85,125
+462,Magnezone,Normal,535,70,70,115,130,90,60
+463,Lickilicky,Normal,515,110,85,95,80,95,50
+464,Rhyperior,Normal,535,115,140,130,55,55,40
+465,Tangrowth,Normal,535,100,100,125,110,50,50
+466,Electivire,Normal,540,75,123,67,95,85,95
+467,Magmortar,Normal,540,75,95,67,125,95,83
+468,Togekiss,Normal,545,85,50,95,120,115,80
+469,Yanmega,Normal,515,86,76,86,116,56,95
+470,Leafeon,Normal,525,65,110,130,60,65,95
+471,Glaceon,Normal,525,65,60,110,130,95,65
+472,Gliscor,Normal,510,75,95,125,45,75,95
+473,Mamoswine,Normal,530,110,130,80,70,60,80
+474,Porygon-Z,Normal,535,85,80,70,135,75,90
+475,Gallade,Normal,518,68,125,65,65,115,80
+475,GalladeMega Gallade,Normal,618,68,165,95,65,115,110
+476,Probopass,Normal,525,60,55,145,75,150,40
+477,Dusknoir,Normal,525,45,100,135,65,135,45
+478,Froslass,Normal,480,70,80,70,80,70,110
+479,Rotom,Normal,440,50,50,77,95,77,91
